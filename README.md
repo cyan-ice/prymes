@@ -42,4 +42,4 @@ Passed 1/1
 
 ## Documentation
 
-The documentation is at https://prymes-docs.readthedocs.io/en/latest/.
+The documentation is at https://prymes-docs.readthedocs.io/latest/.
