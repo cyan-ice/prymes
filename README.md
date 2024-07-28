@@ -36,7 +36,7 @@ In the current directory.
 
 You should see something like this:
 ```
-Test #1: primality_test_fixed... Passed
+Test #1: primality_test... Passed
 Passed 1/1
 ```
 

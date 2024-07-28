@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "prymes"
-version = "0.0.1a0"
+version = "0.0.1a1"
 requires-python = ">= 3.12"
 authors = [
   {name = "Jingyang Wang", email = "wangjy2010@126.com"},
