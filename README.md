@@ -22,7 +22,7 @@ git clone https://github.com/cyan-ice/prymes.git
 ```
 Then, in the `prymes` repository you just cloned, execute the following command:
 ```
-pip install dist/ap_int-*-py3-none-any.whl
+pip install dist/prymes-*-py3-none-any.whl
 ```
 Where `*` is the latest version of PrYmes.
 
